@@ -1,6 +1,6 @@
 require "rack"
 require "rack/request"
-require "URI"
+require "uri"
 require 'iconv'
 require 'rchardet19'
 require "logger"
