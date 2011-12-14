@@ -5,7 +5,7 @@ require "charset_filter/version"
 Gem::Specification.new do |s|
   s.name        = "charset_filter"
   s.version     = CharsetFilter::VERSION
-  s.authors     = ["Ronan Limon Duparcmeur"]
+  s.authors     = ["Ronan Limon Duparcmeur", "Anthony Laibe"]
   s.homepage    = "https://github.com/Hospimedia/CharsetFilter"
   s.description = "Middleware Rack pour corriger les paramètres GET mal encodés"
   s.summary     = "Middleware Rack pour corriger les paramètres GET mal encodés"
