@@ -1,0 +1,1 @@
+require 'rack/charset_filter'
